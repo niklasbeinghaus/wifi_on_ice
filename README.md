@@ -7,7 +7,7 @@ This software is not intended to be used in production as it's against the Terms
 # Usage
 ```
 #git clone this repo and from the repo dir, do:
-sudo mkdir -p /usr/local/sbin && sudo ln -s ./wifi_on_ice /usr/local/sbin/wifi_on_ice
+sudo mkdir -p /usr/local/bin && sudo ln -s ./wifi_on_ice /usr/local/bin/wifi_on_ice
 sudo watch -n 10 wifi_on_ice
 ```
 
